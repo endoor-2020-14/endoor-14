@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\bin\Debug\opdracht3_8.exe.config
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\bin\Debug\opdracht3_8.exe
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\bin\Debug\opdracht3_8.pdb
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\obj\Debug\opdracht3_8.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\obj\Debug\opdracht3_8.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\obj\Debug\opdracht3_8.exe
+C:\Users\endoo\source\repos\opdracht3_8\opdracht3_8\obj\Debug\opdracht3_8.pdb

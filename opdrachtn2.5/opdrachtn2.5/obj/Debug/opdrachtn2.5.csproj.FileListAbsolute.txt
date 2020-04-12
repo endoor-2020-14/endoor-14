@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\bin\Debug\opdrachtn2.5.exe.config
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\bin\Debug\opdrachtn2.5.exe
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\bin\Debug\opdrachtn2.5.pdb
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\obj\Debug\opdrachtn2.5.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\obj\Debug\opdrachtn2.5.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\obj\Debug\opdrachtn2.5.exe
+C:\Users\endoo\source\repos\opdrachtn2.5\opdrachtn2.5\obj\Debug\opdrachtn2.5.pdb

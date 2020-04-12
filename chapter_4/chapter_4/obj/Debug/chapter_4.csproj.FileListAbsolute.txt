@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\chapter_4\chapter_4\bin\Debug\chapter_4.exe.config
+C:\Users\endoo\source\repos\chapter_4\chapter_4\bin\Debug\chapter_4.exe
+C:\Users\endoo\source\repos\chapter_4\chapter_4\bin\Debug\chapter_4.pdb
+C:\Users\endoo\source\repos\chapter_4\chapter_4\obj\Debug\chapter_4.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\chapter_4\chapter_4\obj\Debug\chapter_4.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\chapter_4\chapter_4\obj\Debug\chapter_4.exe
+C:\Users\endoo\source\repos\chapter_4\chapter_4\obj\Debug\chapter_4.pdb

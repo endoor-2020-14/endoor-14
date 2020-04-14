@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\Decider_project\Decider_project\obj\Debug\Decider_project.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\Decider_project\Decider_project\obj\Debug\Decider_project.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\Decider_project\Decider_project\bin\Debug\Decider_project.exe.config
+C:\Users\endoo\source\repos\Decider_project\Decider_project\bin\Debug\Decider_project.exe
+C:\Users\endoo\source\repos\Decider_project\Decider_project\bin\Debug\Decider_project.pdb
+C:\Users\endoo\source\repos\Decider_project\Decider_project\obj\Debug\Decider_project.exe
+C:\Users\endoo\source\repos\Decider_project\Decider_project\obj\Debug\Decider_project.pdb

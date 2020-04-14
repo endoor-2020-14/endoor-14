@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\bin\Debug\opdracht4_13.exe.config
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\bin\Debug\opdracht4_13.exe
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\bin\Debug\opdracht4_13.pdb
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\obj\Debug\opdracht4_13.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\obj\Debug\opdracht4_13.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\obj\Debug\opdracht4_13.exe
+C:\Users\endoo\source\repos\opdracht4_13\opdracht4_13\obj\Debug\opdracht4_13.pdb

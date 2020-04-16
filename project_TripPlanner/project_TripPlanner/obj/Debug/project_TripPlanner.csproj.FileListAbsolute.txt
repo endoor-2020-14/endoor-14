@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\bin\Debug\project_TripPlanner.exe.config
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\bin\Debug\project_TripPlanner.exe
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\bin\Debug\project_TripPlanner.pdb
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\obj\Debug\project_TripPlanner.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\obj\Debug\project_TripPlanner.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\obj\Debug\project_TripPlanner.exe
+C:\Users\endoo\source\repos\project_TripPlanner\project_TripPlanner\obj\Debug\project_TripPlanner.pdb

@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\bin\Debug\opdracht6.11.exe.config
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\bin\Debug\opdracht6.11.exe
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\bin\Debug\opdracht6.11.pdb
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\obj\Debug\opdracht6.11.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\obj\Debug\opdracht6.11.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\obj\Debug\opdracht6.11.exe
+C:\Users\endoo\source\repos\opdracht6.11\opdracht6.11\obj\Debug\opdracht6.11.pdb

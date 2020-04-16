@@ -1,0 +1,7 @@
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\bin\Debug\project_GuessingGame.exe.config
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\bin\Debug\project_GuessingGame.exe
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\bin\Debug\project_GuessingGame.pdb
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\obj\Debug\project_GuessingGame.csprojAssemblyReference.cache
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\obj\Debug\project_GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\obj\Debug\project_GuessingGame.exe
+C:\Users\endoo\source\repos\project_GuessingGame\project_GuessingGame\obj\Debug\project_GuessingGame.pdb

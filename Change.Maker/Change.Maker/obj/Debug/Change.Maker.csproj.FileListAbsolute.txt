@@ -1,0 +1,7 @@
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\bin\Debug\Change.Maker.exe.config
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\bin\Debug\Change.Maker.exe
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\bin\Debug\Change.Maker.pdb
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\obj\Debug\Change.Maker.csprojAssemblyReference.cache
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\obj\Debug\Change.Maker.csproj.CoreCompileInputs.cache
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\obj\Debug\Change.Maker.exe
+C:\Users\endoo\Desktop\Githup\Change.Maker\Change.Maker\obj\Debug\Change.Maker.pdb
